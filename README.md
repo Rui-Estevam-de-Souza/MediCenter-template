@@ -1,0 +1,1 @@
+Este é o primeiro projeto de um template completo e responsivo do aprendiz de programação Rui E de Souza.
